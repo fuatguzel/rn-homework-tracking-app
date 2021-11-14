@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409844929051",
+    "project_id": "rn-homework-tracking",
+    "storage_bucket": "rn-homework-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409844929051:android:2c60a9273e60d908429ebe",
+        "android_client_info": {
+          "package_name": "com.reactnativehomeworktracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409844929051-54oa0064drietptcdbjmfat1lu8aoo2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQwxUJIpCd4i5ozE_HPQrqhMkjWAD0_fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409844929051-54oa0064drietptcdbjmfat1lu8aoo2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
